@@ -25,7 +25,7 @@ sidebar_categories:
     - integrations
     - react-apollo-migration
   Essentials:
-    - essentials/setup
+    - essentials/get-started
     - essentials/queries
     - essentials/mutations
     - essentials/client-access
